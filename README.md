@@ -11,4 +11,4 @@ Open-source tutorial data from PostgreSQL
 
 FINDINGS
 
-The majority of the customer base was in Asia, and this was highlighted as the place to begin marketing pstratgey. There was not a clear positive trend in the profitability of the companies portfolio, and recommendations were target specific markets directly to increase revenue.
+The majority of the customer base was in Asia, and this was highlighted as the place to begin marketing strategy. There was not a clear positive trend in the profitability of the companies portfolio, and recommendations were target specific markets directly to increase revenue.
